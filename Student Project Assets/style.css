@@ -1,0 +1,10 @@
+#timer{
+float: left;
+font-size: 15px;
+margin-left: 5cm;
+}
+#score{
+    float:right ;
+    font-size: 15px;
+    margin-right: 5cm;
+}
